@@ -76,7 +76,7 @@
         "@azure/msal-browser": "^2.37.1",
         "@braintree/sanitize-url": "6.0.4",
         "@fluentui/font-icons-mdl2": "^8.5.9",
-        "@fluentui/react": "^8.117.7",
+        "@fluentui/react": "^8.124.0",
         "@fluentui/react-components": "^9.49.0",
         "@fluentui/react-icons": "^2.0.237",
         "@microsoft/applicationinsights-web": "^3.0.2",
