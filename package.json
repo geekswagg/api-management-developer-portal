@@ -113,7 +113,7 @@
         "nuka-carousel": "^7.0.0",
         "prettier": "^2.8.8",
         "prismjs": "^1.29.0",
-        "react": "^18.2.0",
+        "react": "^18.3.1",
         "react-cropper": "^2.3.2",
         "react-dom": "^18.2.0",
         "react-toastify": "^9.1.3",
